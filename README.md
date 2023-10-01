@@ -1,4 +1,4 @@
-#Modified HNA Algorithm
+# Modified HNA Algorithm
 
 This is the code repository accompanied the manuscript titled "Leveraging the Hankel norm approximation and data-driven algorithms in reduced-order modeling." It implements the two-stage algorithm described in the paper by combing the regularized block-AAA algorithm and the modified HNA algorithm. The block-AAA part was heavily adapted from the code in the [block_AAA](https://github.com/nla-group/block_aaa) repository. The benchmark examples were taken from the [SLICOT](http://www.slicot.org/) benchmark collection. The code was implemented using MATLAB 2023b. In addition, the [Control System Toolbox](https://www.mathworks.com/products/control.html) is needed.
 
