@@ -8,10 +8,10 @@ Every MATLAB file starting with the word `Driver` is used to reproduce an experi
 ## Executing examples in the manuscript
 Every experiment can be reproduced using a MATLAB script.
 
-*To reproduce the experiment in section 4.4, run `Driver_stability.m`.
-*To reproduce the experiment in section 5.4, run `Driver_toy_hilbert.m`.
-*To reproduce the experiment in section 7.1, run `Driver_modified_HNA.m`.
-*To reproduce the experiment in section 7.2, run `Driver_eady.m`.
-*To reproduce the experiment in section 7.3, run `Driver_CD_player.m`.
+* To reproduce the experiment in section 4.4, run `Driver_stability.m`.
+* To reproduce the experiment in section 5.4, run `Driver_toy_hilbert.m`.
+* To reproduce the experiment in section 7.1, run `Driver_modified_HNA.m`.
+* To reproduce the experiment in section 7.2, run `Driver_eady.m`.
+* To reproduce the experiment in section 7.3, run `Driver_CD_player.m`.
 
 The scripts `Driver_eady.m` and `Driver_CD_player.m` employs the block-AAA algorithm with a regularizer. To disable the regularizer, set the regularizing parameter to zero.
